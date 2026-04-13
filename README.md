@@ -1,8 +1,8 @@
-### Estudiante de la carrera de Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional, Facultad Regional Buenos Aires.
+### Estudiante de la carrera de Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional, Facultad Regional Buenos Aires. 💻🖱️
 
-Mis conocimientos son principalmente en C++, JavaScript, Bases de Datos.
+Mis conocimientos son principalmente en C++, JavaScript, Bases de Datos. :atom:
 
-Desarrollador Junior de páginas web
+Desarrollador Junior de páginas web 👷‍♂️
 
 <!--
 **Brublackver/Brublackver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
